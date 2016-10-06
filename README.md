@@ -9,3 +9,4 @@
 * 정재남/ gomugom/ https://github.com/gomugom
 * 진영화/ jinyounghwa/ https://github.com/jinyounghwa
 * 허남진/ oxizen/ https://github.com/oxizen
+* 오명운/ hanmomhanda/ https://github.com/hanmomhanda
